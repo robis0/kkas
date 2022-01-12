@@ -10,7 +10,8 @@ namespace kkas
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello worlds ka ari tava mama");
+            Console.WriteLine("hello worlds ");
+            Console.WriteLine("hello worlds 2.0 ");
         }
     }
 }
